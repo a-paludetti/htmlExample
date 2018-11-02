@@ -1,0 +1,29 @@
+ul {
+    margin: 0px;
+    padding: 0px;
+}
+
+li {
+    display: block;
+    text-align: center;
+    padding: 18px 30px 10px 30px;
+    float: left;
+}
+
+li .nav-item:hover {
+    background-color: #111111;
+    color: white;
+}
+.navbar-toggler-icon {
+    background-image: url('https://mdbootstrap.com/img/svg/hamburger7.svg?color=BFE100');
+}
+p{
+    align-content: center;
+}
+.card{
+    text-align: center;
+    text-justify: auto;
+}
+h2{
+    text-align: center;
+}
